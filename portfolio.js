@@ -149,7 +149,7 @@ export const experience = [
 		role: "Software Development Team Lead",
 		company: "Ocost",
 		companylogo: "/img/icons/common/ocost-logo.png",
-		date: "Sep 2015 – Present",
+		date: "Sep 2020 – Present",
 		desc: "+1 Year",
 		descBullets: [
 			"Analysis, design and development of advance client/server, web based, cloud and n-tier applications",
