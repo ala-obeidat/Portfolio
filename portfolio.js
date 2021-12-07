@@ -185,6 +185,11 @@ export const projects = [
 		link: "https://portal.leanoverlines.com",
 	},
 	{
+		name: "Lean Finance",
+		desc: "Lean Finance is financial system to manage financial parts such as electronic invoicing, sales and incomes",
+		link: "https://finance.leanoverlines.com",
+	},
+	{
 		name: "Rento",
 		desc: "Rento is a system for booking cars and rent it for spacific period",
 		github: "https://github.com/ala-obeidat/Rento",

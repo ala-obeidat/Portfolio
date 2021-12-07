@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Button } from "reactstrap";
 import { Card, Col, Row, Container } from "reactstrap";
 
 import SocialLinks from "../components/SocialLinks";
@@ -27,8 +27,19 @@ const GithubProfileCard = ({ prof }) => {
 							</p>
 							<p className="text-white mt-3">{prof.bio}</p>
 							<div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">
-								<i className="ni ni-pin-3 text-info mr-2" />
-								{prof.location}
+								<p>Inbox me</p>
+							<Button
+				className="btn-icon-only rounded-circle ml-1"
+				color="instigram"
+				title="Email me @ admin@alaobeidat.com"
+				rel="noopener"
+				aria-label="Mail"
+				href='mailto:admin@alaobeidat.com'
+				>
+				<span className="btn-inner--icon">
+					<i className="fa fa-envelope" />
+				</span>
+			</Button>
 							</div>
 							<SocialLinks />
 						</Col>
