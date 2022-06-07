@@ -132,7 +132,7 @@ export const experience = [
 		company: "T2",
 		companylogo: "/img/icons/common/t2logo.png",
 		date: "Nov 2014 – Apr 2019",
-		desc: "4 years and 6 months",
+		desc: "4 years",
 		descBullets: [
 			"Work in developing, designing, problem solving and technical discussing with learning new things by work with very expert team",
 			"I have been involved in many structure design sessions for complex and large products",
@@ -153,11 +153,23 @@ export const experience = [
 		role: "Software Development Team Lead",
 		company: "Ocost",
 		companylogo: "/img/icons/common/ocost-logo.png",
-		date: "Sep 2020 – Present",
-		desc: "+1 Year",
+		date: "Sep 2020 – June 2022",
+		desc: "2 Years",
 		descBullets: [
 			"Analysis, design and development of advance client/server, web based, cloud and n-tier applications",
 			"Lead development team to deliver high quality products on time, analyze system requirements and business needs, perform a research and do the proof of concepts for the new technologies and features",
+		],
+	},
+	,
+	{
+		role: "Senior Software Team Lead",
+		company: "Ertikaz",
+		companylogo: "/img/icons/common/ertikaz-logo.png",
+		date: "June 2022 – Present",
+		desc: "2 Years",
+		descBullets: [
+			"I am responsible for designing, testing, and implementing new and updated software. In addition to assuming an administrative role and leading the development team in all software development tasks",
+			" All of this will be to ensure that all projects are completed on time and to the company's specifications",
 		],
 	},
 ];
