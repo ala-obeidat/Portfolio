@@ -85,7 +85,7 @@ export const skillsSection = {
 		},
 		{
 			skillName: "angular",
-			fontAwesomeClassname: "vscode-icons:angular",
+			fontAwesomeClassname: "logos:angular",
 		},
 		{
 			skillName: "python",
