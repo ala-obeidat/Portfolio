@@ -84,6 +84,10 @@ export const skillsSection = {
 			fontAwesomeClassname: "vscode-icons:file-type-reactjs",
 		},
 		{
+			skillName: "angular",
+			fontAwesomeClassname: "vscode-icons:angular",
+		},
+		{
 			skillName: "python",
 			fontAwesomeClassname: "logos:python",
 		},
@@ -177,17 +181,22 @@ export const projects = [
 	{
 		name: "Lean Lines",
 		desc: "Last mile delevery application to manage orders and delivery process",
-		link: "https://portal.leanoverlines.com",
+		link: "https://overlines.ertikaz.tech",
 	},
 	{
 		name: "Lean Dispatcher",
 		desc: "Lean Dispatcher is a system to manage delivery company fleets",
-		link: "https://portal.leanoverlines.com",
+		link: "https://dispatcher.ertikaz.tech",
 	},
 	{
 		name: "Lean Finance",
 		desc: "Lean Finance is financial system to manage financial parts such as electronic invoicing, sales and incomes",
-		link: "https://finance.leanoverlines.com",
+		link: "https://finance.ertikaz.tech",
+	},
+	{
+		name: "Lean Inventory",
+		desc: "Lean Inventory is financial system to organizing sales, purchasing and inventory management",
+		link: "https://inventory.ertikaz.tech",
 	},
 	{
 		name: "Rento",
@@ -203,6 +212,12 @@ export const projects = [
 		name: "Al-Fajer",
 		desc: "Al-Fajer is a video chat application using WebRTC technology",
 		github: "https://github.com/ala-obeidat/Web-Video-Call",
+	},
+	{
+		name: "Diwan Alhafazah",
+		desc: "Quran memorizers service design in angular and dotnet",
+		github: "https://github.com/ala-obeidat/diwanalhafazah",
+		link: "https://diwanalhafazah.website/",
 	},
 ];
 
