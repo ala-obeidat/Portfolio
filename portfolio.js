@@ -166,7 +166,7 @@ export const experience = [
 		company: "Ertikaz",
 		companylogo: "/img/icons/common/ertikaz-logo.png",
 		date: "June 2022 – Present",
-		desc: "2 Years",
+		desc: "Current",
 		descBullets: [
 			"I am responsible for designing, testing, and implementing new and updated software. In addition to assuming an administrative role and leading the development team in all software development tasks",
 			" All of this will be to ensure that all projects are completed on time and to the company's specifications",
