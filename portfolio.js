@@ -231,6 +231,11 @@ export const projects = [
 		github: "https://github.com/ala-obeidat/diwanalhafazah",
 		link: "https://diwanalhafazah.website/",
 	},
+	{
+		name: "Obe Tools",
+		desc: "NuGet Package to help any .Net developer",
+		link: "https://www.nuget.org/packages/ObeTools/",
+	},
 ];
 
 export const feedbacks = [];
