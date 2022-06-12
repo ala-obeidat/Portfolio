@@ -56,6 +56,18 @@ const SocialLinks = () => {
 					<i className="fa fa-linkedin" />
 				</span>
 			</Button>
+			<Button
+				className="btn-icon-only rounded-circle ml-1"
+				color="twitter"
+				rel="noopener"
+				aria-label="patreon"
+				href={socialLinks.pattrion}
+				target="_blank"
+			>
+				<span className="btn-inner--icon">
+					<i className="fab fa-patreon" />
+				</span>
+			</Button>
 		</div>
 	);
 };

@@ -19,6 +19,7 @@ export const socialLinks = {
 	twitter: "https://twitter.com/ala_N_obeidat",
 	github: "https://github.com/ala-obeidat",
 	linkedin: "https://www.linkedin.com/in/eng-ala-obeidat/",
+	pattrion:"https://www.patreon.com/alaobeidat"
 };
 
 export const skillsSection = {
