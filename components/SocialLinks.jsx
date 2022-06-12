@@ -46,7 +46,7 @@ const SocialLinks = () => {
 			</Button>
 			<Button
 				className="btn-icon-only rounded-circle ml-1"
-				color="twitter"
+				color="default"
 				rel="noopener"
 				aria-label="Linkedin"
 				href={socialLinks.linkedin}
@@ -58,13 +58,13 @@ const SocialLinks = () => {
 			</Button>
 			<Button
 				className="btn-icon-only rounded-circle ml-1"
-				color="twitter"
+				color="danger"
 				rel="noopener"
 				aria-label="patreon"
 				href={socialLinks.pattrion}
 				target="_blank"
 			>
-				<span className="sc-llYSUQ fwLquN"><svg height="546px" version="1.1" viewBox="0 0 569 546" width="569px" xmlns="http://www.w3.org/2000/svg"><title>Patreon logo</title><g><circle cx="362.589996" cy="204.589996" data-fill="1" r="204.589996"></circle><rect data-fill="1" height="545.799988" width="100" x="0" y="0"></rect></g></svg></span>
+				<span className="sc-llYSUQ fwLquN"><svg height="26px" version="1.1" viewBox="0 0 25 25" width="25px" xmlns="http://www.w3.org/2000/svg"><title>Patreon logo</title><g><circle cx="362.589996" cy="204.589996" data-fill="1" r="204.589996"></circle><rect data-fill="1" height="545.799988" width="100" x="0" y="0"></rect></g></svg></span>
 			</Button>
 		</div>
 	);
