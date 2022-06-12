@@ -46,7 +46,7 @@ const SocialLinks = () => {
 			</Button>
 			<Button title="Linked in"
 				className="btn-icon-only rounded-circle ml-1"
-				color="default"
+				color="warning"
 				rel="noopener"
 				aria-label="Linkedin"
 				href={socialLinks.linkedin}
@@ -64,7 +64,7 @@ const SocialLinks = () => {
 				href={socialLinks.pattrion}
 				target="_blank"
 			>
-				<img width="12.14" height="14" alt="Support me at Patreon" src="/img/icons/common/kingscote-logo.png" />
+				<img width="13.14" height="15" alt="Support me at Patreon" src="/img/icons/common/patrion.png" />
 			</Button>
 		</div>
 	);
