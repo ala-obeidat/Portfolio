@@ -7,7 +7,7 @@ import { socialLinks } from "../portfolio";
 const SocialLinks = () => {
 	return (
 		<div className="btn-wrapper text-lg">
-			<Button
+			<Button title="twitter"
 				className="btn-icon-only rounded-circle"
 				color="twitter"
 				href={socialLinks.twitter}
@@ -19,7 +19,7 @@ const SocialLinks = () => {
 					<i className="fa fa-twitter" />
 				</span>
 			</Button>
-			<Button
+			<Button title="Facebook"
 				className="btn-icon-only rounded-circle ml-1"
 				color="facebook"
 				href={socialLinks.facebook}
@@ -32,7 +32,7 @@ const SocialLinks = () => {
 				</span>
 			</Button>
 			 
-			<Button
+			<Button title="GitHub"
 				className="btn-icon-only rounded-circle ml-1"
 				color="github"
 				href={socialLinks.github}
@@ -44,7 +44,7 @@ const SocialLinks = () => {
 					<i className="fa fa-github" />
 				</span>
 			</Button>
-			<Button
+			<Button title="Linked in"
 				className="btn-icon-only rounded-circle ml-1"
 				color="default"
 				rel="noopener"
@@ -56,7 +56,7 @@ const SocialLinks = () => {
 					<i className="fa fa-linkedin" />
 				</span>
 			</Button>
-			<Button
+			<Button title="Support me at Patreon"
 				className="btn-icon-only rounded-circle ml-1"
 				color="danger"
 				rel="noopener"
@@ -64,7 +64,7 @@ const SocialLinks = () => {
 				href={socialLinks.pattrion}
 				target="_blank"
 			>
-				<span className="sc-llYSUQ fwLquN"><svg height="26px" version="1.1" viewBox="0 0 25 25" width="25px" xmlns="http://www.w3.org/2000/svg"><title>Patreon logo</title><g><circle cx="362.589996" cy="204.589996" data-fill="1" r="204.589996"></circle><rect data-fill="1" height="545.799988" width="100" x="0" y="0"></rect></g></svg></span>
+				<img width="12.14" height="14" alt="Support me at Patreon" src="/img/icons/common/kingscote-logo.png" />
 			</Button>
 		</div>
 	);
