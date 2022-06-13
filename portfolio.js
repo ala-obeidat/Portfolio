@@ -143,8 +143,8 @@ export const experience = [
 		role: "Product Manager",
 		company: "kingscote",
 		companylogo: "/img/icons/common/kingscote-logo.png",
-		date: "May 2020 – Jun 2020",
-		desc: "4 months",
+		date: "May 2019 – May 2020",
+		desc: "1 Year",
 		descBullets: [
 			"Create a compelling business case to secure the purchase and obtain the funding required to embark on the business engineering journey",
 			"Using RFID technology, designing and programming IOT devices, working on AI technology that fits clients and solves their problems",
@@ -154,7 +154,7 @@ export const experience = [
 		role: "Software Development Team Lead",
 		company: "Ocost",
 		companylogo: "/img/icons/common/ocost-logo.png",
-		date: "Sep 2020 – June 2022",
+		date: "Jun 2020 – Jun 2022",
 		desc: "2 Years",
 		descBullets: [
 			"Analysis, design and development of advance client/server, web based, cloud and n-tier applications",
@@ -166,7 +166,7 @@ export const experience = [
 		role: "Senior Software Team Lead",
 		company: "Ertikaz",
 		companylogo: "/img/icons/common/ertikaz-logo.png",
-		date: "June 2022 – Present",
+		date: "Jun 2022 – Present",
 		desc: "Current",
 		descBullets: [
 			"I am responsible for designing, testing, and implementing new and updated software. In addition to assuming an administrative role and leading the development team in all software development tasks",
