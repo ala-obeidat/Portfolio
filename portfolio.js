@@ -223,8 +223,9 @@ export const projects = [
 	},
 	{
 		name: "Al-Fajer",
-		desc: "Al-Fajer is a video chat application using WebRTC technology",
-		github: "https://github.com/ala-obeidat/Web-Video-Call",
+		desc: "Al-Fajer is a video & audio chat application using WebRTC technology",
+		github: "https://github.com/ala-obeidat/alfajer",
+		link: "https://alfajer.alaobeidat.com",
 	},
 	{
 		name: "Diwan Alhafazah",
