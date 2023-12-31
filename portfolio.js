@@ -16,7 +16,7 @@ export const contact = {};
 
 export const socialLinks = {
 	facebook: "https://www.facebook.com/eng.ala.obeidat", 
-	twitter: "https://twitter.com/ala_N_obeidat",
+	twitter: "https://twitter.com/ObeidatEng",
 	github: "https://github.com/ala-obeidat",
 	linkedin: "https://www.linkedin.com/in/eng-ala-obeidat/",
 	pattrion:"https://www.patreon.com/alaobeidat"
