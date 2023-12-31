@@ -25,16 +25,16 @@ export const socialLinks = {
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+		"Accomplished Research and Development Leader with 9+ years of experience in the information technology and services industry",
 	skills: [
 		emoji(
-			"⚡ Develop highly interactive Back end / API for your web and mobile applications"
+			"⚡ Specializing in full-stack solutions for multiple platforms."
 		),
 		emoji(
-			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
+			"⚡ Seeking to leverage my expertise in Microsoft technologies."
 		),
 		emoji(
-			"⚡ Integration of third party services such as Firebase/ Redis / RabbitMQ"
+			"⚡ Expirt in design patterns, integrations,	services, architecture, and pre-sales to contribute to the success of innovative projects."
 		),
 	],
 
