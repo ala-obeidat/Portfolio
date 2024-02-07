@@ -1,8 +1,8 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Ala Obeidat",
-	title: "Hi all, I'm Ala",
+	name: "Ala Obeidat - 7 October",
+	title: "Hi all, I'm Ala - 7 October",
 	description:
 		"A passionate Full Stack Web Developer and App Developer having an experience of building Web applications with .Net/ JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks With C#.",
 	resumeLink: "/file/ala-cv.pdf",
